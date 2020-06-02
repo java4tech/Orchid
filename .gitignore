@@ -8,3 +8,7 @@ build-revision
 *.class
 *.jar
 *.zip
+gradle/
+.settings
+.idea
+
